@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+#canvas1{
+    border: 2px solid green;
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.new-game{
+    display: none;
+}
+
+.dead{
+    display: none;
+}
+
+.displayBtn{
+    margin-bottom: 10px;
+}
